@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
  0 "a1.pbt";
  1 "a2.pbt";
 @end;
-DefaultTarget "a2.pbt";
-DefaultRemoteTarget "a2.pbt";
+DefaultTarget "a1.pbt";
+DefaultRemoteTarget "a1.pbt";
