@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "a1.pbt";
+ 1 "a2.pbt";
+@end;
+DefaultTarget "a2.pbt";
+DefaultRemoteTarget "a2.pbt";
